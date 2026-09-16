@@ -1,0 +1,10 @@
+# print(12, 34, sep="-", end='#3'  )
+# print (r"Alice \" linda \"")
+# print ('"Alice  linda "')
+
+# print ( type('Alice'))
+# print ( type(1))
+# print ( type(1.1), type(0.0))
+print(10==10) 
+print(type(10==10)) 
+print(type(10==11)) 
